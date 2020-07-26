@@ -1,0 +1,62 @@
+{
+  "categories" : [
+    {
+      "name": "Pizza",
+      "description": "Choose your cut: Triangular, square, fingers or Un cut on any size pizza.",
+      "items": [
+        {
+          "name":"Chicken Tandoori Special 12\" Deep Pan",
+          "description": "Cheese, tomatoes and italian herbs.",
+         " price":4.50
+        },
+        {
+          "name":"Chicken Tandoori Special 09\" Deep Pan",
+          "description": "Cheese, tomatoes, tuna fish, sweetcorn and italian herbs",
+         " price":6.50
+        },
+        {
+          "name":"Margherita 12\" Deep Pan",
+          "description": "Cheese, tomatoes, shrimps, garlic, mussels, cockles, olives and italian herbs",
+         " price":5.50
+        },
+        {
+          "name":"Chicken Tandoori Special 09\" Deep Pan",
+          "description": "Cheese, tomatoes and italian herbs.",
+         " price":4.50
+        }
+      ]
+    },
+    {
+      "name": "Garlic Bread",
+      "description": "Garlic bread also garlic toast consists of bread usually a baguette or sour dough like a ciabatta",
+      "items": [
+        {
+          "name":"Garlic Pizza Bread 9 \" Thin",
+          "description": "Butter and crushed garlic, then spread a little over the pizza",
+         " price":3.50
+        },
+        {
+          "name":"Garlic Bread 12\" Deep",
+          "description": "Pizza bread made with extra virgin olive oil",
+         " price":2.50
+        }
+      ]
+    },
+    {
+      "name": "Kebabs",
+      "description": "kebab is a common dish, consisting of a skewer with small pieces of meat or seafood, together with vegetables",
+      "items": [
+        {
+          "name":"Regular Kebab",
+          "description": "Beef meat, split chickpealentils , ginger, garlic, onions, salt and mixed spices",
+         " price":2.00
+        },
+        {
+          "name":"Kebabs With Naan",
+          "description": "Kebab is a dish of pieces of meat and fish",
+         " price":4.50
+        }
+      ]
+    }
+  ]
+}
