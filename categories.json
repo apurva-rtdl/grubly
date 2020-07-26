@@ -8,11 +8,11 @@
           "name":"Cold Drink",
           "price":"1.50"
         },{
-          "id":"e2"
+          "id":"e2",
           "name":"RedBull",
           "price":"2.50"
         },{
-          "id":"e3"
+          "id":"e3",
           "name":"Chille",
           "price":"3.50"
         }
