@@ -2,6 +2,7 @@
   "categories" : [
     {
       "name": "Pizza",
+      "id": "11",
       "description": "Choose your cut: Triangular, square, fingers or Un cut on any size pizza.",
       "items": [
         {
@@ -51,6 +52,7 @@
     },
     {
       "name": "Garlic Bread",
+      "id": "12",
       "description": "Garlic bread also garlic toast consists of bread usually a baguette or sour dough like a ciabatta",
       "items": [
         {
@@ -76,6 +78,7 @@
     },
     {
       "name": "Kebabs",
+      "id": "13",
       "description": "kebab is a common dish, consisting of a skewer with small pieces of meat or seafood, together with vegetables",
       "items": [
         {
