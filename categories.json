@@ -6,6 +6,7 @@
       "description": "Choose your cut: Triangular, square, fingers or Un cut on any size pizza.",
       "items": [
         {
+          "id":"111,
           "name":"Chicken Tandoori Special 12\" Deep Pan",
           "description": "Cheese, tomatoes and italian herbs.",
           "image":"cover-photo23-150x150.jpg",
@@ -19,18 +20,21 @@
           ]
         },
         {
+          "id":"112,
           "name":"Chicken Tandoori Special 09\" Deep Pan",
           "description": "Cheese, tomatoes, tuna fish, sweetcorn and italian herbs",
           "image":"cover-photo24-150x150.jpg",
           "price":6.50
         },
         {
+          "id":"113,
           "name":"Margherita 12\" Deep Pan",
           "description": "Cheese, tomatoes, shrimps, garlic, mussels, cockles, olives and italian herbs",
           "image":"blogs-food-bakery-05-150x150.jpg",
           "price":5.50
         },
         {
+          "id":"114,
           "name":"Chicken Tandoori Special 09\" Deep Pan",
           "description": "Cheese, tomatoes and italian herbs.",
           "image":"cover-photo19-150x150.jpg",
@@ -56,6 +60,7 @@
       "description": "Garlic bread also garlic toast consists of bread usually a baguette or sour dough like a ciabatta",
       "items": [
         {
+          id":"115,
           "name":"Garlic Pizza Bread 9 \" Thin",
           "description": "Butter and crushed garlic, then spread a little over the pizza",
           "image":"cover-photo13-150x150.jpg",
@@ -69,6 +74,7 @@
           ]
         },
         {
+          "id":"116,
           "name":"Garlic Bread 12\" Deep",
           "description": "Pizza bread made with extra virgin olive oil",
           "image":"cover-photo09-150x150.jpg",
@@ -82,12 +88,14 @@
       "description": "kebab is a common dish, consisting of a skewer with small pieces of meat or seafood, together with vegetables",
       "items": [
         {
+          "id":"117,
           "name":"Regular Kebab",
           "description": "Beef meat, split chickpealentils , ginger, garlic, onions, salt and mixed spices",
           "image":"fb_masonary_3-150x150.jpg",
           "price":2.00
         },
         {
+          "id":"118,
           "name":"Kebabs With Naan",
           "description": "Kebab is a dish of pieces of meat and fish",
           "image":"blogs-food-bakery-03-150x150.jpg",
