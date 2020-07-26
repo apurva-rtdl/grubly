@@ -4,12 +4,15 @@
       "name": "Drinks",
       "items": [
         {
+          "id":"e1",
           "name":"Cold Drink",
           "price":"1.50"
         },{
+          "id":"e2"
           "name":"RedBull",
           "price":"2.50"
         },{
+          "id":"e3"
           "name":"Chille",
           "price":"3.50"
         }
